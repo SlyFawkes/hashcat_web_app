@@ -5,3 +5,5 @@ plugins:
 
 AllCops:
   NewCops: enable
+  TargetRubyVersion: 3.4
+  ActiveSupportExtensionsEnabled: true
